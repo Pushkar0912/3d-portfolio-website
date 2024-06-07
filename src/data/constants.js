@@ -9,7 +9,7 @@ export const Bio = {
     "Proficient Full Stack Developer specializing in the MERN stack , dedicated to delivering high-performance and responsive web application and I am enthusiastic about taking on challenging projects and actively contributing to the success of the organization.",
   github: "https://github.com/Pushkar0912",
   resume:
-    "https://drive.google.com/file/d/1EvncgwlN0IQxMSb0jsJk6SCkJkhhDQVa/view?usp=drive_link",
+    "https://drive.google.com/file/d/1mfowOdBEo59EnDy0geo6k0I9h28-NgHx/view?usp=sharing?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/pushkar-patil-7119a2210/",
   insta: "https://www.instagram.com/mr._patil_09/",
   facebook: "https://www.facebook.com/pushkar.patil.73345/",
